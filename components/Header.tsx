@@ -9,7 +9,7 @@ const Header: React.FC = () => {
             <div className="container mx-auto max-w-7xl flex justify-between items-center bg-black/30 backdrop-blur-lg border border-gray-800 rounded-full px-6 py-3">
                 <a href="#" className="flex items-center space-x-3 hover:opacity-80 transition-opacity">
                     <SamLogo className="h-8 w-8 text-white" />
-                    <span className="font-bold text-xl text-white">SAM Verse</span>
+                    <span className="font-bold text-xl text-white">SAM verce</span>
                 </a>
                 <nav className="hidden md:flex items-center space-x-8">
                     {navItems.map((item) => (

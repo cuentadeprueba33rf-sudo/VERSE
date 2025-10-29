@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { SamLogo } from './Icons';
 
@@ -12,9 +11,9 @@ const AboutSection: React.FC = () => {
                 </div>
                 <div className="grid md:grid-cols-2 gap-12 items-center">
                     <div className="bg-gray-900/50 p-8 rounded-2xl border border-gray-800">
-                        <h3 className="text-3xl font-bold text-white mb-4">SAM Verse</h3>
+                        <h3 className="text-3xl font-bold text-white mb-4">SAM verce</h3>
                         <p className="text-gray-400 text-lg leading-relaxed">
-                            Somos SAM Verse, una empresa de tecnología visionaria fundada por Samuel Casseres. Nuestra pasión es construir el futuro, y SAM IA es nuestro primer gran paso. Nos dedicamos a crear herramientas inteligentes que no solo resuelven problemas complejos, sino que también inspiran y potencian la capacidad humana. Creemos en un futuro donde la tecnología y la humanidad colaboran para alcanzar nuevas cimas.
+                            Somos SAM verce, una empresa de tecnología visionaria fundada por Samuel Casseres. Nuestra pasión es construir el futuro, y SAM IA es nuestro primer gran paso. Nos dedicamos a crear herramientas inteligentes que no solo resuelven problemas complejos, sino que también inspiran y potencian la capacidad humana. Creemos en un futuro donde la tecnología y la humanidad colaboran para alcanzar nuevas cimas.
                         </p>
                     </div>
                      <div className="flex justify-center items-center p-8 bg-gray-900/50 rounded-2xl border border-gray-800 h-full">

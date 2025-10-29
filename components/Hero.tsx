@@ -86,7 +86,7 @@ const Hero: React.FC = () => {
                     style={{ animationDelay: '400ms' }}
                 >
                     <p className="mt-6 max-w-2xl mx-auto text-lg md:text-xl text-gray-300">
-                        Descubre la nueva era de la inteligencia artificial. Creada por Samuel Casseres y su empresa SAM Verse para potenciar tu creatividad y productividad.
+                        Descubre la nueva era de la inteligencia artificial. Creada por Samuel Casseres y su empresa SAM verce para potenciar tu creatividad y productividad.
                     </p>
                 </div>
 
